@@ -88,7 +88,7 @@ const HeroSection = () => {
         )}
         <div className="hero-content opacity-0">
           <div className="overflow-hidden">
-            <h1 className="hero-title">Freaking Delicious</h1>
+            <h1 className="hero-title">Hương vị ngon</h1>
           </div>
           <div
             style={{
@@ -102,12 +102,12 @@ const HeroSection = () => {
           </div>
 
           <h2>
-            Live life to the fullest  with SPYLT: Shatter boredom and embrace
-            your inner kid with every deliciously smooth chug.
+            Sống một cuộc sống đầy đủ nhất với Spylt: Borated Boredom và Embrace
+đứa trẻ bên trong của bạn với mỗi chug mịn màng một cách ngon lành.
           </h2>
 
           <div className="hero-button">
-            <p>Chug a SPYLT</p>
+            <p>Chug một SPYLT</p>
           </div>
         </div>
       </div>

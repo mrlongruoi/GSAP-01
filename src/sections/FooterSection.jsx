@@ -50,24 +50,24 @@ const FooterSection = () => {
         <div className="mt-40 md:px-10 px-5 flex gap-10 md:flex-row flex-col justify-between text-milk font-paragraph md:text-lg font-medium">
           <div className="flex items-center md:gap-16 gap-5">
             <div>
-              <p>SPYLT Flavors</p>
+              <p>SPYLT Hương vị</p>
             </div>
             <div>
               <p>Chug Club</p>
-              <p>Student Marketing</p>
-              <p>Dairy Dealers</p>
+              <p>Tiếp thị sinh viên</p>
+              <p>Đại lý sữa</p>
             </div>
             <div>
-              <p>Company</p>
-              <p>Contacts</p>
-              <p>Tasty Talk</p>
+              <p>Công ty</p>
+              <p>Liên hệ</p>
+              <p>Nói chuyện ngon</p>
             </div>
           </div>
 
           <div className="md:max-w-lg">
             <p>
-              Get Exclusive Early Access and Stay Informed About Product
-              Updates, Events, and More!
+              Nhận quyền truy cập sớm độc quyền và được thông báo về sản phẩm
+Cập nhật, sự kiện, và nhiều hơn nữa!
             </p>
             <div className="flex justify-between items-center border-b border-[#D9D9D9] py-5 md:mt-10">
               {/* The input field and arrow icon for newsletter signup. */}{" "}
@@ -85,10 +85,10 @@ const FooterSection = () => {
 
         <div className="copyright-box">
           {/* The final row with copyright and legal links. */}
-          <p>Copyright © 2025 Spylt - All Rights Reserved</p>
+          <p>Bản quyền © 2025 Spylt - Bảo lưu mọi quyền</p>
           <div className="flex items-center gap-7">
-            <p>Privacy Policy</p>
-            <p>Terms of Sеrvice</p>
+            <p>Chính sách bảo mật</p>
+            <p>Điều khoản dịch vụ</p>
           </div>
         </div>
       </div>

@@ -1,31 +1,31 @@
 const flavorlists = [
   {
-    name: "Chocolate Milk",
+    name: "Sô cô la sữa",
     color: "brown",
     rotation: "md:rotate-[-8deg] rotate-0",
   },
   {
-    name: "Stawberry Milk",
+    name: "Sữa dâu",
     color: "red",
     rotation: "md:rotate-[8deg] rotate-0",
   },
   {
-    name: "Cookies & Cream",
+    name: "Bánh quy & Kem",
     color: "blue",
     rotation: "md:rotate-[-8deg] rotate-0",
   },
   {
-    name: "Peanut Butter Chocolate",
+    name: "Bơ đậu phộng & Sô cô la",
     color: "orange",
     rotation: "md:rotate-[8deg] rotate-0",
   },
   {
-    name: "Vanilla Milkshake",
+    name: "Sữa lắc vani",
     color: "white",
     rotation: "md:rotate-[-8deg] rotate-0",
   },
   {
-    name: "Max Chocolate Milk",
+    name: "Sô cô la sữa Max",
     color: "black",
     rotation: "md:rotate-[8deg] rotate-0",
   },
